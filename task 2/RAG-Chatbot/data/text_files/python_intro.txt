@@ -1,0 +1,17 @@
+
+Python Introduction
+===================
+
+Python is a high-level, interpreted programming language known for its
+simplicity and readability. It was created by Guido van Rossum and
+released in 1991.
+
+Key features:
+- Easy to learn and write
+- Dynamically typed
+- Huge standard library
+- Supports multiple programming paradigms (OOP, functional, procedural)
+- Excellent for automation, data analysis, and web development
+
+Example:
+    print("Hello, Python!")
