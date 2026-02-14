@@ -192,4 +192,4 @@ Author
 Subhanud Din
 
 Machine Learning & AI Enthusiast
-Building production-ready ML systems 🚀
+Building production-ready ML systems 
